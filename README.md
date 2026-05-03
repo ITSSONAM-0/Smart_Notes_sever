@@ -72,9 +72,7 @@ Follow these simple steps to install the extension in your browser:
 
 ---
 
-## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
